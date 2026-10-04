@@ -48,7 +48,7 @@ tags:
 - Fleet Management
 - Transportation
 - Automotive
-- Machine-Learning
+- Machine Learning
 - Telematics
 - IoT
 tags_raw:
@@ -60,6 +60,7 @@ tags_raw:
 - Machine Learning
 - Telematics
 - IoT
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
